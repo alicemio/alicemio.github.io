@@ -1,4 +1,4 @@
 alicemio.github.io
 ==================
 
-GA
+general assembly
