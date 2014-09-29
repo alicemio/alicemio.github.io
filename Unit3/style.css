@@ -12,8 +12,12 @@ hr{
 	width: 59px;
 	margin-top: -80px;
 	margin-bottom:-13px;
-
 }
+
+a {
+	text-decoration: none;
+}
+
 .btn {
 	float:right;
 	background-color:transparent;
