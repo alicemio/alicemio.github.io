@@ -1,0 +1,77 @@
+body{
+	text-align: left;
+	background:  url("images/stripes.png") repeat-x, url("images/background.jpg") no-repeat;
+	background-attachment: fixed;
+	background-color: #52596b;
+}
+
+hr{
+	background-color: #c16864;
+	border: none;
+	height: 4px;
+	width: 59px;
+	margin-top: -80px;
+	margin-bottom:-13px;
+
+}
+.btn {
+	float:right;
+	background-color:transparent;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+	text-indent:0px;
+	border:1px solid #999999;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:thin;
+	font-style:normal;
+	height:38px;
+	line-height:39px;
+	width:76px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 0px #807980;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
+#logo{
+	padding-left:10px;
+}
+.macapp{
+	padding-left:20px;
+	display: inline;
+}
+#button{
+	padding-bottom:200px;
+	padding-top:40px;
+	padding-right: 45px;
+}
+#content{
+
+	margin-left: 80px;
+	margin-top:28px;
+}
+
+
+
+p {
+	font-size: 60px;
+	color: white;
+	font-weight: lighter;
+	font-family: helvetica, Arial, Verdana, sans-serif;
+	max-width: 580px;
+}
