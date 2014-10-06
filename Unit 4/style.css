@@ -1,0 +1,45 @@
+body{
+	text-align: center;
+	background:  url('img/awning.png') repeat-x;
+	background-attachment: fixed;
+	font-family: 'Roboto Slab', serif;
+	color:#666666;
+	background-color: #FCF6E0;
+}
+
+}
+#logo{
+	position:fixed;
+	display:inline-block;
+}
+#content{
+display: block;
+width: 700px;
+margin-top: 200px;
+margin-left: auto;
+margin-right: auto;
+}
+h1{
+	color:#CC4B4A;
+	padding-top:30px;
+	margin:auto;
+	display: block;
+}
+
+hr{
+	width:50px;
+	height:5px;
+	background-color: #CC4B4A;
+	border: none;
+	margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+}
+p{
+	font-family: 'Roboto Slab', serif;
+	font-weight: lighter;
+	font-size:16px;
+	line-height:23px;
+	margin:auto;
+	padding-top:35px;
+	}
