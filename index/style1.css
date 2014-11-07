@@ -1,0 +1,42 @@
+body{
+	background-color: #FFFFFF;
+}
+p{
+	font-family: 'Varela Round', sans-serif;
+	color: #221D1F;
+}
+#page-wrap {
+     margin: 24px 41px 0px 36px;
+     display: block;
+     height:600px;
+ }
+hr{
+	height: 0.5px;
+	background-color: #EE4223;
+	border: none;
+	margin-top:5px;
+}
+ul {
+    list-style-type: none;
+    margin: 22px 0 0 0px;
+    font-family: 'Varela Round', sans-serif;
+    line-height: 28px;
+}
+a:link {
+    text-decoration: none;
+    color:#EE4223;
+}
+a:visited {
+    text-decoration: none;
+    color:#EE4223;
+}
+a:hover {
+    text-decoration: none;
+    color:#0A0A0A;
+}
+#content{
+	width:510px;
+	display:block;
+	margin: -95px 0px 10px 252px;
+	line-height:25px;
+}

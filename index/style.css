@@ -1,0 +1,21 @@
+body{
+	background-color: #EE4223;
+}
+p{
+	font-family: 'Varela Round', sans-serif;
+	color: #FDE5DE;
+}
+#page-wrap {
+     width: 145px;
+     margin: 0 auto;
+     margin-top:170px;
+     display: block;
+}
+
+hr{
+	width:45px;
+	height: 4px;
+	background-color: #FDE5DE;
+	border: none;
+	margin-top:36px;
+}
